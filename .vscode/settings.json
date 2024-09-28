@@ -1,0 +1,8 @@
+{
+  "editor.wordWrap": "off",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "prettier.printWidth": 99999999999,
+  "prettier.bracketSameLine": true,
+  "prettier.arrowParens": "avoid"
+}

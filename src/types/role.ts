@@ -1,0 +1,2 @@
+
+export type TypeRole = string[]
